@@ -2,7 +2,7 @@
   {
     "name": "ToneGen1",
     "author": "markjinwook",
-    "path": "Plugins/",
+    "path": "Plugins/ToneGen1.zip",
     "patch": "ToneGen1.pd",
     "formats": ["AU", "VST3", "Standalone"],
     "type": "fx",
