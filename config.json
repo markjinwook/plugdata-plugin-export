@@ -3,7 +3,7 @@
     "name": "ToneGen1",
     "author": "markjinwook",
     "path": "Plugins/",
-    "patch": "MyEffect.pd",
+    "patch": "ToneGen1.pd",
     "formats": ["AU", "VST3", "Standalone"],
     "type": "fx",
     "version": "1.0.0"
